@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-01-факт-выпол-раб-e",
+  "editForm": "i-i-s-prilozhenie-01-факт-выпол-раб-e",
+  "external": false,
+  "caption": "Документ Фактическое выполнение работ",
+  "name": "IISPrilozhenie_01ФактВыполРабL",
+  "className": "ФактВыполРабL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-01-факт-выпол-раб",
+      "modelProjection": "ФактВыполРабL"
+    }
+  ]
+}

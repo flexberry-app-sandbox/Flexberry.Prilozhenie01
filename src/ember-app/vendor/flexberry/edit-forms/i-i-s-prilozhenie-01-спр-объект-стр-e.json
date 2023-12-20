@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Справочник объекты строительства",
+  "name": "IISPrilozhenie_01СпрОбъектСтрE",
+  "className": "СпрОбъектСтрE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-01-спр-объект-стр",
+      "modelProjection": "СпрОбъектСтрE"
+    }
+  ]
+}

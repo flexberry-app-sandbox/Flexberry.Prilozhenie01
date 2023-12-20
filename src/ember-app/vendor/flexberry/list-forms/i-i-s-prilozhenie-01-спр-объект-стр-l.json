@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-01-спр-объект-стр-e",
+  "editForm": "i-i-s-prilozhenie-01-спр-объект-стр-e",
+  "external": false,
+  "caption": "Справочник объекты строительства",
+  "name": "IISPrilozhenie_01СпрОбъектСтрL",
+  "className": "СпрОбъектСтрL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-01-спр-объект-стр",
+      "modelProjection": "СпрОбъектСтрL"
+    }
+  ]
+}
